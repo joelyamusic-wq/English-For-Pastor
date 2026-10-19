@@ -1,0 +1,19 @@
+{
+  "name": "English for Pastors — 30-Day Course",
+  "short_name": "Pastor English",
+  "description": "Luyện tiếng Anh qua hội thoại Kinh Thánh và tình huống mục vụ.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#b75c2c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
